@@ -1,4 +1,4 @@
-# Levente Molnar
+# Learning Tracker
 
 Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development.
 
