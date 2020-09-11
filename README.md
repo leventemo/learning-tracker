@@ -26,7 +26,6 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Parcel bundler**                | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Working with APIs**             | ![done][done]     |                        |                  |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Git bash**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          |                  |
 |**React**                         | ![done][done]     |                        |                  |
 |**Vagrant**                       | ![done][done]     |                        |                  |
