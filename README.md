@@ -1,7 +1,6 @@
-# Learning Tracker - @leventemo
+# Learning Tracker
 
 Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development.
-
 
 ----
 
@@ -13,7 +12,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS Flexbox**                  | ![done][done]     | ![done][done]           | ![done][done]    |
+|**CSS Flexbox**                   | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS Grid**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Bootstrap**                     | ![done][done]     | ![done][done]          |                  |
 |**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |
@@ -32,7 +31,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**React**                         | ![done][done]     |                        |                  |
 |**Vagrant**                       | ![done][done]     |                        |                  |
 |**PHP7**                          | ![done][done]     |                        |                  |
-|**Sass**                           | ![done][done]    |                        |                  |
+|**Sass**                          | ![done][done]     |                        |                  |
 |**Progressive Enhancement**       | ![done][done]     | ![done][done]          |                  |
 |**Website Building**              | ![done][done]     | ![done][done]          |                  |
 |**Publishing website**            | ![done][done]     | ![done][done]          |                  |
