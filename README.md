@@ -6,7 +6,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 ## Skills
 
-[done]: https://img.icons8.com/android/24/000000/checked.png "Done"
+[done]: https://img.icons8.com/android/20/000000/checked.png "Done"
 
 |               Skill              | Introduction | Occasional Use    | Regular use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
