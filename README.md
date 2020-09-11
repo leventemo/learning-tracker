@@ -1,41 +1,6 @@
 # Learning Tracker
 
-Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development.
-
-----
-
-## Skills
-
-[done]: https://img.icons8.com/android/20/000000/checked.png "Done"
-
-|               Skill              | Introduction | Occasional Use    | Regular use |
-|:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-|**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS Flexbox**                   | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS Grid**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Bootstrap**                     | ![done][done]     | ![done][done]          |                  |
-|**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Markdown**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
-|**NPM**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Parcel bundler**                | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Working with APIs**             | ![done][done]     |                        |                  |
-|**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**GitHub**                        | ![done][done]     | ![done][done]          |                  |
-|**React**                         | ![done][done]     |                        |                  |
-|**Vagrant**                       | ![done][done]     |                        |                  |
-|**PHP7**                          | ![done][done]     |                        |                  |
-|**Sass**                          | ![done][done]     |                        |                  |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done]          |                  |
-|**Website Building**              | ![done][done]     | ![done][done]          |                  |
-|**Publishing website**            | ![done][done]     | ![done][done]          |                  |
-|**Open Source Contribution**      | ![done][done]     |                        |                  |
-
+Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. It does not list every single article or blog post I read but I keep adding things as I go.
 
 ----
 
@@ -84,3 +49,38 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 [Bruno Skvorc]: https://www.sitepoint.com/author/bskvorc
 [Jon Duckett]: https://www.amazon.com/Jon-Duckett/e/B001IR3Q7I%3Fref=dbs_a_mng_rwt_scns_share
 [Rob Percival]: https://www.udemy.com/user/robpercival/
+
+----
+
+## Skills
+
+[done]: https://img.icons8.com/android/20/000000/checked.png "Done"
+
+|               Skill              | Introduction | Occasional Use    | Regular use |
+|:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
+|**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |
+|**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |
+|**CSS Flexbox**                   | ![done][done]     | ![done][done]          | ![done][done]    |
+|**CSS Grid**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Bootstrap**                     | ![done][done]     | ![done][done]          |                  |
+|**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Markdown**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
+|**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
+|**NPM**                           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Parcel bundler**                | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Working with APIs**             | ![done][done]     |                        |                  |
+|**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**GitHub**                        | ![done][done]     | ![done][done]          |                  |
+|**React**                         | ![done][done]     |                        |                  |
+|**Vagrant**                       | ![done][done]     |                        |                  |
+|**PHP7**                          | ![done][done]     |                        |                  |
+|**Sass**                          | ![done][done]     |                        |                  |
+|**Progressive Enhancement**       | ![done][done]     | ![done][done]          |                  |
+|**Website Building**              | ![done][done]     | ![done][done]          |                  |
+|**Publishing website**            | ![done][done]     | ![done][done]          |                  |
+|**Open Source Contribution**      | ![done][done]     |                        |                  |
+
