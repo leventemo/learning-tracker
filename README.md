@@ -72,15 +72,15 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
 |**NPM**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Parcel bundler**                | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Working with APIs**             | ![done][done]     |                        |                  |
+|**Working with APIs**             | ![done][done]     |![done][done]           |                  |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          |                  |
 |**React**                         | ![done][done]     |                        |                  |
 |**Vagrant**                       | ![done][done]     |                        |                  |
 |**PHP7**                          | ![done][done]     |                        |                  |
 |**Sass**                          | ![done][done]     |                        |                  |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done]          |                  |
+|**Progressive Enhancement**       | ![done][done]     |                        |                  |
 |**Website Building**              | ![done][done]     | ![done][done]          |                  |
-|**Publishing website**            | ![done][done]     | ![done][done]          |                  |
+|**Publishing website**            | ![done][done]     |                        |                  |
 |**Open Source Contribution**      | ![done][done]     |                        |                  |
 
