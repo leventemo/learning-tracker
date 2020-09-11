@@ -12,7 +12,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-|   Completed     | Course / Book                           |                Course / Book by...                        |
+|   Completed     | Course / Book                           |                by...                        |
 |:----------------|:----------------------------------------------------------------|:---------------------------------------:|
 | 2020 September | [React for Beginners](https://reactforbeginners.com/)                                      | [Wes Bos] |
 | 2020 June | [CSS Grid](https://cssgrid.io/)                                      | [Wes Bos] |
