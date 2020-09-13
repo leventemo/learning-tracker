@@ -1,6 +1,6 @@
 # Learning Tracker
 
-Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. I keep adding things as I go but I do not list every single article or blog post I read.
+Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. I keep adding things as I go but I'm not listing every single article, blog post or tutorial. These are, say, the memorable ones :)
 
 ----
 
@@ -27,6 +27,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 | 2018 August | [The PHP Practitioner](https://laracasts.com/series/php-for-beginners)           | [Laracasts] |
 | 2018 April | [Simply SQL](https://www.sitepoint.com/premium/books/simply-sql)           | [Rudy Limeback] |
 | 2017 December | [Bootstrap 4 Beta Course ](https://www.sitepoint.com/premium/courses/introduction-to-bootstrap-4-2984)                                    | [Jason Brewer] |
+| 2017 December | [Git & GitHub Crash Course For Beginners ](https://www.youtube.com/watch?v=SWYqp7iY_Tc)                                    | [Brad Traversy] |
 | 2017 December | [Jump Start PHP Environment](https://www.sitepoint.com/premium/books/jump-start-php-environment)                                    | [Bruno Skvorc]  |
 | 2017 October | [PHP & MySQL: Novice to Ninja](https://www.sitepoint.com/premium/books/php-mysql-novice-to-ninja-6th-edition)                                    | [Tom Butler] & [Kevin Yank]|
 | 2017 September | [JavaScript: Novice to Ninja, 2nd Edition](https://www.sitepoint.com/premium/books/javascript-novice-to-ninja-2nd-edition)                                    | [Darren Jones]  |
@@ -46,6 +47,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 [Laracasts]: https://laracasts.com/topics/php
 [Rudy Limeback]: https://www.sitepoint.com/author/rudy-limeback
 [Kevin Yank]: https://www.sitepoint.com/author/kevin-yank
+[Brad Traversy]: https://www.traversymedia.com/
 [Bruno Skvorc]: https://www.sitepoint.com/author/bskvorc
 [Jon Duckett]: https://www.amazon.com/Jon-Duckett/e/B001IR3Q7I%3Fref=dbs_a_mng_rwt_scns_share
 [Rob Percival]: https://www.udemy.com/user/robpercival/
