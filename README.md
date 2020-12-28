@@ -1,10 +1,13 @@
 # Learning Tracker
 
+https://docs.github.com/en/free-pro-team@latest/github/using-git/why-is-git-always-asking-for-my-password
+
+
 Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. I keep adding things as I go but I'm not listing every single article, blog post or tutorial. These are, say, the memorable ones 😉
 
 ----
 
-## Learning 📙
+## 📙 Learning
 
 |   Completed     | Course / Book                           |                by...                        |
 |:----------------|:----------------------------------------------------------------|:---------------------------------------:|
@@ -30,7 +33,6 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 | 2015 August | [JavaScript & jQuery](http://javascriptbook.com/)                                    | [Jon Duckett] |
 
 
-
 [//]: # (Reference links to courses)
 [Academind]: https://academind.com/
 [Wes Bos]: https://wesbos.com
@@ -47,9 +49,8 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 [Jon Duckett]: https://www.amazon.com/Jon-Duckett/e/B001IR3Q7I%3Fref=dbs_a_mng_rwt_scns_share
 [Rob Percival]: https://www.udemy.com/user/robpercival/
 
-----
 
-## Skills 💪
+## 💪 Skills
 
 [done]: https://img.icons8.com/android/20/000000/checked.png "Done"
 
@@ -87,7 +88,8 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Publishing website**            | ![done][done]     | ![done][done]          |                  |
 |**Open Source Contribution**      |                   |                        |                  |
 
-## Tooling 🛠️
+## 🛠️ Tooling
+
 |               Tool              | Introduction | Occasional Use    | Regular use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**Visual Studio Code**            | ![done][done]     | ![done][done]          | ![done][done]    |
