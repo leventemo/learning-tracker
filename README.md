@@ -1,8 +1,8 @@
 # Learning Tracker
 
-[see this on Github Pages](https://leventemo.github.io/learning-tracker)
-
 Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. I keep adding things as I go but I'm not listing every single article, blog post or tutorial. These are, say, the memorable ones 😉
+
+&nbsp;
 
 ## 📙 Learning
 
@@ -46,6 +46,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 [Jon Duckett]: https://www.amazon.com/Jon-Duckett/e/B001IR3Q7I%3Fref=dbs_a_mng_rwt_scns_share
 [Rob Percival]: https://www.udemy.com/user/robpercival/
 
+&nbsp;
 
 ## 💪 Skills
 
@@ -84,6 +85,8 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Website Building**         | ![done][done]     | ![done][done]          |                  |
 |**Publishing website**       | ![done][done]     | ![done][done]          |                  |
 |**Open Source Contribution** |       soon        |                        |                  |
+
+&nbsp;
 
 ## 🛠️ Tooling
 
