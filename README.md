@@ -1,19 +1,14 @@
 # Learning Tracker
 
-Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. I keep adding things as I go but I'm not listing every single article, blog post or tutorial. These are, say, the memorable ones :)
+Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. I keep adding things as I go but I'm not listing every single article, blog post or tutorial. These are, say, the memorable ones 😉
 
 ----
 
-## Learning
-
-[//]: # (Status images)
-
-[Completed]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Completed"
-[In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
-[Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
+## Learning 📙
 
 |   Completed     | Course / Book                           |                by...                        |
 |:----------------|:----------------------------------------------------------------|:---------------------------------------:|
+| 2020 October | [Regular Expressions Demystified](https://www.youtube.com/playlist?list=PL55RiY5tL51ryV3MhCbH8bLl7O_RZGUUE)                                      | [Academind] |
 | 2020 September | [React for Beginners](https://reactforbeginners.com/)                                      | [Wes Bos] |
 | 2020 June | [CSS Grid](https://cssgrid.io/)                                      | [Wes Bos] |
 | 2020 April | [Beginner Javascript](https://wesbos.com/beginner-javascript)                                      | [Wes Bos] |
@@ -37,7 +32,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 
 [//]: # (Reference links to courses)
-
+[Academind]: https://academind.com/
 [Wes Bos]: https://wesbos.com
 [Flavio Copes]: https://flaviocopes.com/
 [Jason Brewer]: https://www.linkedin.com/in/jbrewer3
@@ -54,7 +49,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 ----
 
-## Skills
+## Skills 💪
 
 [done]: https://img.icons8.com/android/20/000000/checked.png "Done"
 
@@ -64,25 +59,42 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS Flexbox**                   | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS Grid**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Sass**                          |                   |                        |                  |
 |**Bootstrap**                     | ![done][done]     | ![done][done]          |                  |
 |**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Accessibility**                 | ![done][done]     | ![done][done]          |                  |
+|**SVG**            		           | ![done][done]     | ![done][done]          |                  |
 |**Markdown**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
 |**NPM**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Parcel bundler**                | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Working with APIs**             | ![done][done]     |![done][done]           |                  |
+|**Working with APIs**             | ![done][done]     | ![done][done]          |                  |
+|**Creating APIs**                 | ![done][done]     |                        |                  |
+|**JWT**                           | ![done][done]     |                        |                  |
+|**Regex**                         | ![done][done]     | ![done][done]          |                  |
+|**Node.js**                       | ![done][done]     |                        |                  |
+|**Express.js**                    | ![done][done]     |                        |                  |
+|**Websockets**                    |                   |                        |                  |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          |                  |
 |**React**                         | ![done][done]     |                        |                  |
 |**Vagrant**                       | ![done][done]     |                        |                  |
 |**PHP7**                          | ![done][done]     |                        |                  |
-|**Sass**                          | ![done][done]     |                        |                  |
 |**Progressive Enhancement**       | ![done][done]     |                        |                  |
 |**Website Building**              | ![done][done]     | ![done][done]          |                  |
-|**Publishing website**            | ![done][done]     |                        |                  |
-|**Open Source Contribution**      | ![done][done]     |                        |                  |
+|**Publishing website**            | ![done][done]     | ![done][done]          |                  |
+|**Open Source Contribution**      |                   |                        |                  |
 
+## Tooling 🛠️
+|               Tool              | Introduction | Occasional Use    | Regular use |
+|:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
+|**Visual Studio Code**            | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Sublime Text3**                 | ![done][done]     | ![done][done]          |                  |
+|**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Iconset**                       | ![done][done]     | ![done][done]          |                  |
+|**Parcel Bundler**                | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Postman**                       | ![done][done]     | ![done][done]          | ![done][done]    |
+|**TablePlus**                     | ![done][done]     |                        |                  |
