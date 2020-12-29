@@ -15,30 +15,32 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**CSS Flexbox**              | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS Grid**                 | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Sass**                     |       soon        |                        |                  |
-|**Bootstrap**                | ![done][done]     | ![done][done]          |                  |
 |**Responsive design**        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Bootstrap**                | ![done][done]     | ![done][done]          |                  |
 |**Accessibility**            | ![done][done]     | ![done][done]          |                  |
-|**SVG**            		      | ![done][done]     | ![done][done]          |                  |
 |**Markdown**                 | ![done][done]     | ![done][done]          | ![done][done]    |
+|**SVG**            		      | ![done][done]     | ![done][done]          |                  |
 |**JavaScript**               | ![done][done]     | ![done][done]          | ![done][done]    |
-|**ES6**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Command line**             | ![done][done]     | ![done][done]          | ![done][done]    |
-|**NPM**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Working with APIs**        | ![done][done]     | ![done][done]          |                  |
-|**Creating APIs**            | ![done][done]     |                        |                  |
-|**JWT**                      | ![done][done]     |                        |                  |
 |**Regex**                    | ![done][done]     | ![done][done]          |                  |
-|**Node.js**                  | ![done][done]     |                        |                  |
-|**Express.js**               | ![done][done]     |                        |                  |
-|**Websockets**               |       soon        |                        |                  |
+|**Command line**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                   | ![done][done]     | ![done][done]          |                  |
 |**React**                    | ![done][done]     |                        |                  |
+|**NPM**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Node.js**                  | ![done][done]     |                        |                  |
+|**Express.js**               | ![done][done]     |                        |                  |
+|**Working with APIs**        | ![done][done]     | ![done][done]          |                  |
+|**Creating APIs**            | ![done][done]     |                        |                  |
+|**JWT**                      | ![done][done]     |                        |                  |
+|**Websockets**               |       soon        |                        |                  |
+|**SQL**                      | ![done][done]     | ![done][done]          |                  |
+|**MongoDB**                  | ![done][done]     | ![done][done]          |                  |
+|**Firebase**                 | ![done][done]     |                        |                  |
 |**Vagrant**                  | ![done][done]     |                        |                  |
 |**PHP7**                     | ![done][done]     |                        |                  |
 |**Progressive Enhancement**  | ![done][done]     |                        |                  |
 |**Website Building**         | ![done][done]     | ![done][done]          |                  |
-|**Publishing website**       | ![done][done]     | ![done][done]          |                  |
+|**Deployment**               | ![done][done]     | ![done][done]          |                  |
 |**Open Source Contribution** |       soon        |                        |                  |
 
 &nbsp;
@@ -47,11 +49,11 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 |               Tool              | Introduction | Occasional Use    | Regular use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
+|**iTerm – Oh My Zsh**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Visual Studio Code**            | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Sublime Text3**                 | ![done][done]     | ![done][done]          |                  |
-|**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Iconset**                       | ![done][done]     | ![done][done]          |                  |
+|**EsLint – Prettier**             | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Iconset**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Parcel**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Postman**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**TablePlus**                     | ![done][done]     |                        |                  |
@@ -62,7 +64,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 |   Completed     | Course / Book                           |                by...                        |
 |:----------------|:----------------------------------------------------------------|:---------------------------------------:|
-| 2020/10 | [Regular Expressions Demystified](https://www.youtube.com/playlist?list=PL55RiY5tL51ryV3MhCbH8bLl7O_RZGUUE)                                      | [Academind] |
+| 2020/11 | [Regular Expressions Demystified](https://www.youtube.com/playlist?list=PL55RiY5tL51ryV3MhCbH8bLl7O_RZGUUE)                                      | [Academind] |
 | 2020/09 | [React for Beginners](https://reactforbeginners.com/)                                      | [Wes Bos] |
 | 2020/06 | [CSS Grid](https://cssgrid.io/)                                      | [Wes Bos] |
 | 2020/04 | [Beginner Javascript](https://wesbos.com/beginner-javascript)                                      | [Wes Bos] |
