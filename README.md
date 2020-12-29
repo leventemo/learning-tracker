@@ -1,6 +1,6 @@
 # Learning Tracker
 
-Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. I keep adding things as I go but I'm not listing every single article, blog post or tutorial. These are, say, the memorable ones 😉
+Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. I'm adding things as I go but I'm not listing every single article, blog post or tutorial. These are, say, the memorable ones 😉
 
 &nbsp;
 
@@ -100,3 +100,4 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Parcel Bundler**                | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Postman**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**TablePlus**                     | ![done][done]     |                        |                  |
+
