@@ -4,6 +4,60 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 &nbsp;
 
+## 💪 Skills
+
+[done]: https://img.icons8.com/android/20/000000/checked.png "Done"
+
+|               Skill              | Introduction | Occasional Use    | Regular use |
+|:--------------------------- |:-----------------:|:----------------------:|:----------------:|
+|**HTML5**                    | ![done][done]     | ![done][done]          | ![done][done]    |
+|**CSS3**                     | ![done][done]     | ![done][done]          | ![done][done]    |
+|**CSS Flexbox**              | ![done][done]     | ![done][done]          | ![done][done]    |
+|**CSS Grid**                 | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Sass**                     |       soon        |                        |                  |
+|**Bootstrap**                | ![done][done]     | ![done][done]          |                  |
+|**Responsive design**        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Accessibility**            | ![done][done]     | ![done][done]          |                  |
+|**SVG**            		      | ![done][done]     | ![done][done]          |                  |
+|**Markdown**                 | ![done][done]     | ![done][done]          | ![done][done]    |
+|**JavaScript**               | ![done][done]     | ![done][done]          | ![done][done]    |
+|**ES6**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Command line**             | ![done][done]     | ![done][done]          | ![done][done]    |
+|**NPM**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Working with APIs**        | ![done][done]     | ![done][done]          |                  |
+|**Creating APIs**            | ![done][done]     |                        |                  |
+|**JWT**                      | ![done][done]     |                        |                  |
+|**Regex**                    | ![done][done]     | ![done][done]          |                  |
+|**Node.js**                  | ![done][done]     |                        |                  |
+|**Express.js**               | ![done][done]     |                        |                  |
+|**Websockets**               |       soon        |                        |                  |
+|**Git**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**GitHub**                   | ![done][done]     | ![done][done]          |                  |
+|**React**                    | ![done][done]     |                        |                  |
+|**Vagrant**                  | ![done][done]     |                        |                  |
+|**PHP7**                     | ![done][done]     |                        |                  |
+|**Progressive Enhancement**  | ![done][done]     |                        |                  |
+|**Website Building**         | ![done][done]     | ![done][done]          |                  |
+|**Publishing website**       | ![done][done]     | ![done][done]          |                  |
+|**Open Source Contribution** |       soon        |                        |                  |
+
+&nbsp;
+
+## 🛠️ Tooling
+
+|               Tool              | Introduction | Occasional Use    | Regular use |
+|:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
+|**Visual Studio Code**            | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Sublime Text3**                 | ![done][done]     | ![done][done]          |                  |
+|**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Iconset**                       | ![done][done]     | ![done][done]          |                  |
+|**Parcel**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Postman**                       | ![done][done]     | ![done][done]          | ![done][done]    |
+|**TablePlus**                     | ![done][done]     |                        |                  |
+
+&nbsp;
+
 ## 📙 Learning
 
 |   Completed     | Course / Book                           |                by...                        |
@@ -48,56 +102,4 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 &nbsp;
 
-## 💪 Skills
-
-[done]: https://img.icons8.com/android/20/000000/checked.png "Done"
-
-|               Skill              | Introduction | Occasional Use    | Regular use |
-|:--------------------------- |:-----------------:|:----------------------:|:----------------:|
-|**HTML5**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS3**                     | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS Flexbox**              | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS Grid**                 | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Sass**                     |       soon        |                        |                  |
-|**Bootstrap**                | ![done][done]     | ![done][done]          |                  |
-|**Responsive design**        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Accessibility**            | ![done][done]     | ![done][done]          |                  |
-|**SVG**            		      | ![done][done]     | ![done][done]          |                  |
-|**Markdown**                 | ![done][done]     | ![done][done]          | ![done][done]    |
-|**JavaScript**               | ![done][done]     | ![done][done]          | ![done][done]    |
-|**ES6**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Command line**             | ![done][done]     | ![done][done]          | ![done][done]    |
-|**NPM**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Parcel bundler**           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Working with APIs**        | ![done][done]     | ![done][done]          |                  |
-|**Creating APIs**            | ![done][done]     |                        |                  |
-|**JWT**                      | ![done][done]     |                        |                  |
-|**Regex**                    | ![done][done]     | ![done][done]          |                  |
-|**Node.js**                  | ![done][done]     |                        |                  |
-|**Express.js**               | ![done][done]     |                        |                  |
-|**Websockets**               |       soon        |                        |                  |
-|**Git**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**GitHub**                   | ![done][done]     | ![done][done]          |                  |
-|**React**                    | ![done][done]     |                        |                  |
-|**Vagrant**                  | ![done][done]     |                        |                  |
-|**PHP7**                     | ![done][done]     |                        |                  |
-|**Progressive Enhancement**  | ![done][done]     |                        |                  |
-|**Website Building**         | ![done][done]     | ![done][done]          |                  |
-|**Publishing website**       | ![done][done]     | ![done][done]          |                  |
-|**Open Source Contribution** |       soon        |                        |                  |
-
-&nbsp;
-
-## 🛠️ Tooling
-
-|               Tool              | Introduction | Occasional Use    | Regular use |
-|:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-|**Visual Studio Code**            | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Sublime Text3**                 | ![done][done]     | ![done][done]          |                  |
-|**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Iconset**                       | ![done][done]     | ![done][done]          |                  |
-|**Parcel Bundler**                | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Postman**                       | ![done][done]     | ![done][done]          | ![done][done]    |
-|**TablePlus**                     | ![done][done]     |                        |                  |
 
