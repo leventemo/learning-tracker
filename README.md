@@ -8,7 +8,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 [done]: https://img.icons8.com/android/20/000000/checked.png "Done"
 
-|               Skill              | Introduction | Occasional Use    | Regular use |
+|               Skill              | Introduction | Occasional Use    | Regular Use |
 |:--------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**HTML5**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS3**                     | ![done][done]     | ![done][done]          | ![done][done]    |
@@ -47,7 +47,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 ## 🛠️ Tooling
 
-|               Tool              | Introduction | Occasional Use    | Regular use |
+|               Tool              | Introduction | Occasional Use    | Regular Use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**iTerm – Oh My Zsh**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Visual Studio Code**            | ![done][done]     | ![done][done]          | ![done][done]    |
@@ -57,6 +57,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Parcel**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Postman**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**TablePlus**                     | ![done][done]     |                        |                  |
+|**Inkscape**                      |       soon        |                        |                  |
 
 &nbsp;
 
