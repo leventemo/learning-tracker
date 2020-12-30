@@ -114,9 +114,9 @@ An incomplete list of resources I find very useful, in no particular order whats
 
 ### 📩 Favourite Newsletters
 
-[JSK Daily](https://us9.campaign-archive.com/?e=20252a026b&u=4ba84fe3f6d629e746e48e5b7&id=a8a4737347)
-[ui.dev: React](https://ui.dev/newsletters/react/)
-[Node Weekly](https://nodeweekly.com/)
+* [JSK Daily](https://us9.campaign-archive.com/?e=20252a026b&u=4ba84fe3f6d629e746e48e5b7&id=a8a4737347)
+* [ui.dev: React](https://ui.dev/newsletters/react/)
+* [Node Weekly](https://nodeweekly.com/)
 
 [//]: # (Reference links to courses)
 [Academind]: https://academind.com/
