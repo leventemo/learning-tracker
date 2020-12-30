@@ -1,6 +1,6 @@
 # Learning Tracker
 
-Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. I'm adding things as I go but I'm not listing every single article, blog post or tutorial. These are, say, the memorable ones 😉
+Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. I'm adding things as I go but I'm not listing every single article, blog post or tutorial. These are, say, the memorable ones.
 
 &nbsp;
 
@@ -26,6 +26,9 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Git**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                   | ![done][done]     | ![done][done]          |                  |
 |**React**                    | ![done][done]     |                        |                  |
+|**Redux**                    |       soon        |                        |                  |
+|**Apollo**                   |       soon        |                        |                  |
+|**Gatsby**                   |       soon        |                        |                  |
 |**NPM**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Node.js**                  | ![done][done]     |                        |                  |
 |**Express.js**               | ![done][done]     |                        |                  |
@@ -41,6 +44,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Progressive Enhancement**  | ![done][done]     |                        |                  |
 |**Website Building**         | ![done][done]     | ![done][done]          |                  |
 |**Deployment**               | ![done][done]     | ![done][done]          |                  |
+|**Data Visualization**       |       soon        |                        |                  |
 |**Open Source Contribution** |       soon        |                        |                  |
 
 &nbsp;
@@ -62,6 +66,8 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 &nbsp;
 
 ## 📙 Learning
+
+### Courses and Books
 
 |   Completed     | Course / Book                           |                by...                        |
 |:----------------|:----------------------------------------------------------------|:---------------------------------------:|
@@ -86,6 +92,19 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 | 2016/03 | [The Complete Web Developer Course 2.0 ](https://www.udemy.com/course/the-complete-web-developer-course-2/)                                    | [Rob Percival]  |
 | 2015/08 | [JavaScript & jQuery](http://javascriptbook.com/)                                    | [Jon Duckett] |
 
+### Favourite Blogs
+
+An incomplete list of resources I find very useful, in no particular order whatsoever.
+
+| Course / Book                                     |      CSS      |      JS       |     React     |
+|:--------------------------------------------------|:-------------:|:-------------:|:-------------:|
+| [CSS-Tricks](https://css-tricks.com/)             | ![done][done] |               |               |
+| [Modern CSS Solutions](https://moderncss.dev/)    | ![done][done] |               |               |
+| [Josh W. Cameau](https://www.joshwcomeau.com/)    | ![done][done] |               | ![done][done] |
+| [Alligator.io](https://alligator.io/)             | ![done][done] | ![done][done] | ![done][done] |
+| [Tania Rascia](https://www.taniarascia.com/)      |               | ![done][done] | ![done][done] |
+| [Wes Bos](https://wesbos.com/tips)                |               | ![done][done] |               |
+| [Robin Wieruch](https://www.robinwieruch.de/blog) |               |               | ![done][done] |
 
 [//]: # (Reference links to courses)
 [Academind]: https://academind.com/
