@@ -1,6 +1,6 @@
 # Learning Tracker
 
-Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. I'm adding things as I go but I'm not listing every single article, blog post or tutorial. These are, say, the memorable ones.
+Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. I am updating these lists as I go without listing every single article, blog post or tutorial I read.
 
 &nbsp;
 
@@ -98,23 +98,25 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 An incomplete list of resources I find very useful, in no particular order whatsoever.
 
-| Blog                                              |      CSS      |      JS       |     React     |
-|:--------------------------------------------------|:-------------:|:-------------:|:-------------:|
-| [CSS-Tricks](https://css-tricks.com/)             | ![done][done] |               |               |
-| [Modern CSS Solutions](https://moderncss.dev/)    | ![done][done] |               |               |
-| [Josh W. Cameau](https://www.joshwcomeau.com/)    | ![done][done] |               | ![done][done] |
-| [Alligator.io](https://alligator.io/)             | ![done][done] | ![done][done] | ![done][done] |
-| [Tania Rascia](https://www.taniarascia.com/)      |               | ![done][done] | ![done][done] |
-| [Wes Bos](https://wesbos.com/tips)                |               | ![done][done] |               |
-| [Robin Wieruch](https://www.robinwieruch.de/blog) |               |               | ![done][done] |
+| Blog                                                    |      CSS      |      JS       |     React     |
+|:--------------------------------------------------------|:-------------:|:-------------:|:-------------:|
+| [CSS-Tricks](https://css-tricks.com/)                   | ![done][done] |               |               |
+| [Modern CSS Solutions](https://moderncss.dev/)          | ![done][done] |               |               |
+| [Alligator.io](https://alligator.io/)                   | ![done][done] | ![done][done] | ![done][done] |
+| [[Go Make Things](https://gomakethings.com/articles/)   |               | ![done][done] |               |
+| [Josh W. Cameau](https://www.joshwcomeau.com/)          | ![done][done] |               | ![done][done] |
+| [Tania Rascia](https://www.taniarascia.com/)            |               | ![done][done] | ![done][done] |
+| [Wes Bos](https://wesbos.com/tips)                      |               | ![done][done] |               |
+| [ui.dev](https://ui.dev/blog/)                          |               | ![done][done] | ![done][done] |
+| [Robin Wieruch](https://www.robinwieruch.de/blog)       |               |               | ![done][done] |
 
 &nbsp;
 
 ### 📩 Favourite Newsletters
 
-| Newsletter                                        |      CSS      |      JS       |     React     |
-|:--------------------------------------------------|:-------------:|:-------------:|:-------------:|
-| coming soon                       |               |               |               |
+[JSK Daily](https://us9.campaign-archive.com/?e=20252a026b&u=4ba84fe3f6d629e746e48e5b7&id=a8a4737347)
+[ui.dev: React](https://ui.dev/newsletters/react/)
+[Node Weekly](https://nodeweekly.com/)
 
 [//]: # (Reference links to courses)
 [Academind]: https://academind.com/
@@ -131,7 +133,3 @@ An incomplete list of resources I find very useful, in no particular order whats
 [Bruno Skvorc]: https://www.sitepoint.com/author/bskvorc
 [Jon Duckett]: https://www.amazon.com/Jon-Duckett/e/B001IR3Q7I%3Fref=dbs_a_mng_rwt_scns_share
 [Rob Percival]: https://www.udemy.com/user/robpercival/
-
-&nbsp;
-
-
