@@ -92,11 +92,13 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 | 2016/03 | [The Complete Web Developer Course 2.0 ](https://www.udemy.com/course/the-complete-web-developer-course-2/)                                    | [Rob Percival]  |
 | 2015/08 | [JavaScript & jQuery](http://javascriptbook.com/)                                    | [Jon Duckett] |
 
-### Favourite Blogs
+&nbsp;
+
+### 🔖 Favourite Blogs
 
 An incomplete list of resources I find very useful, in no particular order whatsoever.
 
-| Course / Book                                     |      CSS      |      JS       |     React     |
+| Blog                                              |      CSS      |      JS       |     React     |
 |:--------------------------------------------------|:-------------:|:-------------:|:-------------:|
 | [CSS-Tricks](https://css-tricks.com/)             | ![done][done] |               |               |
 | [Modern CSS Solutions](https://moderncss.dev/)    | ![done][done] |               |               |
@@ -105,6 +107,14 @@ An incomplete list of resources I find very useful, in no particular order whats
 | [Tania Rascia](https://www.taniarascia.com/)      |               | ![done][done] | ![done][done] |
 | [Wes Bos](https://wesbos.com/tips)                |               | ![done][done] |               |
 | [Robin Wieruch](https://www.robinwieruch.de/blog) |               |               | ![done][done] |
+
+&nbsp;
+
+### 📩 Favourite Newsletters
+
+| Newsletter                                        |      CSS      |      JS       |     React     |
+|:--------------------------------------------------|:-------------:|:-------------:|:-------------:|
+| coming soon                       |               |               |               |
 
 [//]: # (Reference links to courses)
 [Academind]: https://academind.com/
