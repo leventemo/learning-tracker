@@ -1,6 +1,6 @@
 # Learning Tracker
 
-Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. I am updating these lists as I go without listing every single article, blog post or tutorial I read.
+Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. I am updating these lists as I work on ticking boxes, without listing every single article, blog post or tutorial I read.
 
 &nbsp;
 
@@ -8,16 +8,17 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 [done]: https://img.icons8.com/android/20/000000/checked.png "Done"
 
-|               Skill              | Introduction | Occasional Use    | Regular Use |
+|             Skill           |   Introduction    |     Occasional Use     |   Regular Use    |
 |:--------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**HTML5**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS3**                     | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS Flexbox**              | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS Grid**                 | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Sass**                     |       soon        |                        |                  |
 |**Responsive design**        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Bootstrap**                | ![done][done]     | ![done][done]          |                  |
-|**Accessibility**            | ![done][done]     | ![done][done]          |                  |
+|**Sass**                     |       soon        |                        |                  |
+|**CSS Animation**            |       soon        |                        |                  |
+|**Accessibility**            | ![done][done]     |                        |                  |
 |**Markdown**                 | ![done][done]     | ![done][done]          | ![done][done]    |
 |**SVG**            		      | ![done][done]     | ![done][done]          |                  |
 |**JavaScript**               | ![done][done]     | ![done][done]          | ![done][done]    |
@@ -35,6 +36,8 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Working with APIs**        | ![done][done]     | ![done][done]          |                  |
 |**Creating APIs**            | ![done][done]     |                        |                  |
 |**JWT**                      | ![done][done]     |                        |                  |
+|**JavaScript Testing**       |       soon        |                        |                  |
+|**Text To Speech**           | ![done][done]     |                        |                  |
 |**Websockets**               |       soon        |                        |                  |
 |**SQL**                      | ![done][done]     | ![done][done]          |                  |
 |**MongoDB**                  | ![done][done]     | ![done][done]          |                  |
@@ -96,7 +99,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 ### 🔖 Favourite Blogs
 
-An incomplete list of resources I find very useful, in no particular order whatsoever.
+An incomplete and ever growing list of resources I find useful, in no particular order.
 
 | Blog                                                    |      CSS      |      JS       |     React     |
 |:--------------------------------------------------------|:-------------:|:-------------:|:-------------:|
@@ -113,6 +116,8 @@ An incomplete list of resources I find very useful, in no particular order whats
 &nbsp;
 
 ### 📩 Favourite Newsletters
+
+As above: incomplete and ever growing.
 
 * [JSK Daily](https://us9.campaign-archive.com/?e=20252a026b&u=4ba84fe3f6d629e746e48e5b7&id=a8a4737347)
 * [ui.dev: React](https://ui.dev/newsletters/react/)
