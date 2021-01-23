@@ -16,6 +16,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**CSS Grid**                 | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Responsive design**        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Bootstrap**                | ![done][done]     | ![done][done]          |                  |
+|**Materialize CSS**          | ![done][done]     |                        |                  |
 |**Sass**                     |       soon        |                        |                  |
 |**CSS Animation**            |       soon        |                        |                  |
 |**Accessibility**            | ![done][done]     |                        |                  |
@@ -28,13 +29,16 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**GitHub**                   | ![done][done]     | ![done][done]          |                  |
 |**React**                    | ![done][done]     |                        |                  |
 |**Redux**                    |       soon        |                        |                  |
-|**Apollo**                   |       soon        |                        |                  |
 |**Gatsby**                   |       soon        |                        |                  |
 |**NPM**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Node.js**                  | ![done][done]     |                        |                  |
 |**Express.js**               | ![done][done]     |                        |                  |
+|**Apollo.js**                |       soon        |                        |                  |
+|**React Query.js**           |       soon        |                        |                  |
 |**Working with APIs**        | ![done][done]     | ![done][done]          |                  |
 |**Creating APIs**            | ![done][done]     |                        |                  |
+|**REST**                     | ![done][done]     | ![done][done]     |                  |
+|**GraphQL**                  |       soon        |                        |                  |
 |**JWT**                      | ![done][done]     |                        |                  |
 |**JavaScript Testing**       |       soon        |                        |                  |
 |**Text To Speech**           | ![done][done]     |                        |                  |
@@ -46,6 +50,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**PHP7**                     | ![done][done]     |                        |                  |
 |**Progressive Enhancement**  | ![done][done]     |                        |                  |
 |**Website Building**         | ![done][done]     | ![done][done]          |                  |
+|**Custom e-commerce**        |       soon        |                        |                  |
 |**Deployment**               | ![done][done]     | ![done][done]          |                  |
 |**Data Visualization**       |       soon        |                        |                  |
 |**Open Source Contribution** |       soon        |                        |                  |
@@ -65,6 +70,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Postman**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**TablePlus**                     | ![done][done]     |                        |                  |
 |**Inkscape**                      |       soon        |                        |                  |
+|**Figma**                         |       soon        |                        |                  |
 
 &nbsp;
 
@@ -105,8 +111,10 @@ An incomplete and ever growing list of resources I find useful, in no particular
 |:--------------------------------------------------------|:-------------:|:-------------:|:-------------:|
 | [CSS-Tricks](https://css-tricks.com/)                   | ![done][done] |               |               |
 | [Modern CSS Solutions](https://moderncss.dev/)          | ![done][done] |               |               |
+| [Sara Soueidan](...)                    | ![done][done] |               |               |
 | [Alligator.io](https://alligator.io/)                   | ![done][done] | ![done][done] | ![done][done] |
-| [[Go Make Things](https://gomakethings.com/articles/)   |               | ![done][done] |               |
+| [Go Make Things](https://gomakethings.com/articles/)   |               | ![done][done] |               |
+| [Flavio Copes](...)   |               | ![done][done] |               |
 | [Josh W. Cameau](https://www.joshwcomeau.com/)          | ![done][done] |               | ![done][done] |
 | [Tania Rascia](https://www.taniarascia.com/)            |               | ![done][done] | ![done][done] |
 | [Wes Bos](https://wesbos.com/tips)                      |               | ![done][done] |               |
@@ -120,7 +128,10 @@ An incomplete and ever growing list of resources I find useful, in no particular
 As above: incomplete and ever growing.
 
 * [JSK Daily](https://us9.campaign-archive.com/?e=20252a026b&u=4ba84fe3f6d629e746e48e5b7&id=a8a4737347)
+* [JSK Weekly](https://javascriptweekly.com/)
+* [Frontend Horse](https://frontend.horse/)
 * [ui.dev: React](https://ui.dev/newsletters/react/)
+* [Frontend Mentor Newsletter](https://www.frontendmentor.io/challenges/pomodoro-app-KBFnycJ6G)
 * [Node Weekly](https://nodeweekly.com/)
 
 [//]: # (Reference links to courses)
