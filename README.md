@@ -28,14 +28,14 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Git**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                   | ![done][done]     | ![done][done]          |                  |
 |**React**                    | ![done][done]     |                        |                  |
-|**Redux**                    |       soon        |                        |                  |
+|**Redux**                    | ![done][done]     |                        |                  |
 |**Gatsby**                   |       soon        |                        |                  |
 |**NPM**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Node.js**                  | ![done][done]     |                        |                  |
 |**Express.js**               | ![done][done]     |                        |                  |
 |**Apollo.js**                |       soon        |                        |                  |
 |**React Query.js**           |       soon        |                        |                  |
-|**Working with APIs**        | ![done][done]     | ![done][done]          |                  |
+|**Consuming APIs**        | ![done][done]     | ![done][done]          |                  |
 |**Creating APIs**            | ![done][done]     |                        |                  |
 |**REST**                     | ![done][done]     | ![done][done]     |                  |
 |**GraphQL**                  |       soon        |                        |                  |
@@ -80,6 +80,9 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 |   Completed     | Course / Book                           |                by...                        |
 |:----------------|:----------------------------------------------------------------|:---------------------------------------:|
+| 2021/02 | [HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0&list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu&index=24)                                      | [Brad Traversy] |
+| 2021/02 | [React Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)                                      | [Brad Traversy] |
+| 2021/02 | [React Front To Back](https://www.udemy.com/course/modern-react-front-to-back/)                                      | [Brad Traversy] |
 | 2020/11 | [Regular Expressions Demystified](https://www.youtube.com/playlist?list=PL55RiY5tL51ryV3MhCbH8bLl7O_RZGUUE)                                      | [Academind] |
 | 2020/09 | [React for Beginners](https://reactforbeginners.com/)                                      | [Wes Bos] |
 | 2020/06 | [CSS Grid](https://cssgrid.io/)                                      | [Wes Bos] |
@@ -100,6 +103,47 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 | 2017/09 | [JavaScript: Novice to Ninja, 2nd Edition](https://www.sitepoint.com/premium/books/javascript-novice-to-ninja-2nd-edition)                                    | [Darren Jones]  |
 | 2016/03 | [The Complete Web Developer Course 2.0 ](https://www.udemy.com/course/the-complete-web-developer-course-2/)                                    | [Rob Percival]  |
 | 2015/08 | [JavaScript & jQuery](http://javascriptbook.com/)                                    | [Jon Duckett] |
+
+&nbsp;
+
+## WORKING ON RIGHT NOW:
+* [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/) by Mosh Hamedani
+
+&nbsp;
+
+## ON THE RADAR:
+
+### React
+* [Easy Peasy React State Management](https://www.youtube.com/watch?v=cSUt8b2qapM&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=15) by Brad Traversy
+* [Make React Apps Bundle](https://learn.better.dev/make-react-apps-bundle-a-and-b) by Chris Sev
+* [Hangman with React](https://www.youtube.com/watch?v=jj0W8tYX_q8) by CodeSTACKr
+* [React Projects Playlist](https://www.youtube.com/watch?v=cSUt8b2qapM&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=15) by Brad Traversy
+* [Advanced React](https://advancedreact.com/) by Wes Bos
+
+### HTTP
+
+* [Express Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) by Brad
+* [What is a RESTful API?](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
+
+### Node
+
+* [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) by Brad Traversy
+* [Learn Node](https://learnnode.com/) by Wes Bos
+* [Node App from Scratch](https://www.youtube.com/watch?v=SBvmnHTQIPY) by Brad Traversy
+* [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0) by Brad Traversy
+
+### Websockets
+
+* [Real-Time Tweets & Socket.io](https://www.youtube.com/watch?v=PjjjhGW4ceM) by Brad Traversy
+* [Multiplayer Snake Game with Socket.io](https://www.youtube.com/watch?v=ppcBIHv_ZPs) by [Hungry Turtle Code](https://www.youtube.com/channel/UC7Vxnf06GP6w42Lg3TQLXSw)
+
+### Figma
+
+* [Figma in 40 Minutes](https://www.youtube.com/watch?v=4W4LvJnNegA) by [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+
+### Inkscape
+
+* ???
 
 &nbsp;
 
