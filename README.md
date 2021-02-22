@@ -106,12 +106,12 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 &nbsp;
 
-## WORKING ON RIGHT NOW:
+## Working on right now:
 * [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/) by Mosh Hamedani
 
 &nbsp;
 
-## ON THE RADAR:
+## On the radar:
 
 ### React
 * [Easy Peasy React State Management](https://www.youtube.com/watch?v=cSUt8b2qapM&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=15) by Brad Traversy
