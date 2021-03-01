@@ -11,6 +11,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |             Skill           |   Introduction    |     Occasional Use     |   Regular Use    |
 |:--------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**HTML5**                    | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Pug**                      |       soon        |                        |                  |
 |**CSS3**                     | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS Flexbox**              | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS Grid**                 | ![done][done]     | ![done][done]          | ![done][done]    |
@@ -40,7 +41,9 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**REST**                     | ![done][done]     | ![done][done]     |                  |
 |**GraphQL**                  |       soon        |                        |                  |
 |**JWT**                      | ![done][done]     |                        |                  |
-|**JavaScript Testing**       |       soon        |                        |                  |
+|**Unit Testing**             |       soon        |                        |                  |
+|**Integration Testing**      |       soon        |                        |                  |
+|**TDD**                      |       soon        |                        |                  |
 |**Text To Speech**           | ![done][done]     |                        |                  |
 |**Websockets**               |       soon        |                        |                  |
 |**SQL**                      | ![done][done]     | ![done][done]          |                  |
@@ -108,29 +111,33 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 ## Working on right now:
 * [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/) by Mosh Hamedani
+* [Node.js: Tools & Skills, 2nd Edition](https://www.sitepoint.com/premium/books/node-js-tools-skills-2nd-edition/read/1) on Sitepoint
+* [Your First Week With Node.js, 2nd Edition](https://www.sitepoint.com/premium/books/your-first-week-with-node-js-2nd-edition/read/2/k8o6l4nd) on Sitepoint
 
 &nbsp;
 
 ## On the radar:
 
 ### React
+* [React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/) by Flavio Copes
 * [Easy Peasy React State Management](https://www.youtube.com/watch?v=cSUt8b2qapM&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=15) by Brad Traversy
-* [Make React Apps Bundle](https://learn.better.dev/make-react-apps-bundle-a-and-b) by Chris Sev
+* ["Make React Apps" Bundle](https://learn.better.dev/make-react-apps-bundle-a-and-b) by Chris Sev
 * [Hangman with React](https://www.youtube.com/watch?v=jj0W8tYX_q8) by CodeSTACKr
 * [React Projects Playlist](https://www.youtube.com/watch?v=cSUt8b2qapM&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=15) by Brad Traversy
 * [Advanced React](https://advancedreact.com/) by Wes Bos
 
-### HTTP
-
-* [Express Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) by Brad
-* [What is a RESTful API?](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
-
 ### Node
 
 * [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) by Brad Traversy
+* [What is a RESTful API?](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
 * [Learn Node](https://learnnode.com/) by Wes Bos
 * [Node App from Scratch](https://www.youtube.com/watch?v=SBvmnHTQIPY) by Brad Traversy
 * [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0) by Brad Traversy
+
+### Express
+
+* [Express Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) by Brad Traversy
+* [The Express Handbook](https://flaviocopes.com/page/express-handbook/) by Flavio Copes
 
 ### Websockets
 
