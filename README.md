@@ -11,13 +11,15 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |             Skill           |   Introduction    |     Occasional Use     |   Regular Use    |
 |:--------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**HTML5**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Pug**                      |       soon        |                        |                  |
+|**Pug**                      | ![done][done]     | ![done][done]     |                  |
+|**Nunjucks**                 | ![done][done]     |                        |                  |
 |**CSS3**                     | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS Flexbox**              | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS Grid**                 | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Responsive design**        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Bootstrap**                | ![done][done]     | ![done][done]          |                  |
 |**Materialize CSS**          | ![done][done]     |                        |                  |
+|**Bulma**                    | ![done][done]     |                        |                  |
 |**Sass**                     |       soon        |                        |                  |
 |**CSS Animation**            |       soon        |                        |                  |
 |**Accessibility**            | ![done][done]     |                        |                  |
@@ -28,6 +30,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Command line**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                   | ![done][done]     | ![done][done]          |                  |
+|**Eleventy**                 | ![done][done]     |                        |                  |
 |**React**                    | ![done][done]     |                        |                  |
 |**Redux**                    | ![done][done]     |                        |                  |
 |**Gatsby**                   |       soon        |                        |                  |
@@ -36,7 +39,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Express.js**               | ![done][done]     |                        |                  |
 |**Apollo.js**                |       soon        |                        |                  |
 |**React Query.js**           |       soon        |                        |                  |
-|**Consuming APIs**        | ![done][done]     | ![done][done]          |                  |
+|**Consuming APIs**           | ![done][done]     | ![done][done]          |                  |
 |**Creating APIs**            | ![done][done]     |                        |                  |
 |**REST**                     | ![done][done]     | ![done][done]     |                  |
 |**GraphQL**                  |       soon        |                        |                  |
@@ -71,6 +74,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Iconset**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Parcel**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Postman**                       | ![done][done]     | ![done][done]          | ![done][done]    |
+|**MongoDB Compass**               | ![done][done]     |                        |                  |
 |**TablePlus**                     | ![done][done]     |                        |                  |
 |**Inkscape**                      |       soon        |                        |                  |
 |**Figma**                         |       soon        |                        |                  |
@@ -110,6 +114,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 &nbsp;
 
 ## Working on right now:
+* [Eleventy from Scratch](https://piccalil.li/course/learn-eleventy-from-scratch/) by Andy Bell
 * [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/) by Mosh Hamedani
 * [Node.js: Tools & Skills, 2nd Edition](https://www.sitepoint.com/premium/books/node-js-tools-skills-2nd-edition/read/1) on Sitepoint
 * [Your First Week With Node.js, 2nd Edition](https://www.sitepoint.com/premium/books/your-first-week-with-node-js-2nd-edition/read/2/k8o6l4nd) on Sitepoint
@@ -177,7 +182,11 @@ An incomplete and ever growing list of resources I find useful, in no particular
 ### 📩 Favourite Newsletters
 
 As above: incomplete and ever growing.
-
+* [CSS-Tricks Newsletter](https://css-tricks.com/newsletter/)
+* [CodePen Spark](https://codepen.io/spark)
+* [viewBox Newsletter](https://viewbox.club/)
+* [Codrops Newsletter](https://tympanus.net/codrops/newsletter/)
+* [Frontend Weekly](https://frontendweekly.co/)
 * [JSK Daily](https://us9.campaign-archive.com/?e=20252a026b&u=4ba84fe3f6d629e746e48e5b7&id=a8a4737347)
 * [JSK Weekly](https://javascriptweekly.com/)
 * [Frontend Horse](https://frontend.horse/)
