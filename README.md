@@ -26,34 +26,36 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Markdown**                 | ![done][done]     | ![done][done]          | ![done][done]    |
 |**SVG**            		      | ![done][done]     | ![done][done]          |                  |
 |**JavaScript**               | ![done][done]     | ![done][done]          | ![done][done]    |
+|**TypeScript**               |       soon        |                        |                  |
 |**Regex**                    | ![done][done]     | ![done][done]          |                  |
 |**Command line**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                   | ![done][done]     | ![done][done]          |                  |
 |**Eleventy**                 | ![done][done]     |                        |                  |
+|**Angular**                  |       soon        |                        |                  |
 |**React**                    | ![done][done]     |                        |                  |
 |**Redux**                    | ![done][done]     |                        |                  |
 |**Gatsby**                   |       soon        |                        |                  |
 |**NPM**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Node.js**                  | ![done][done]     |                        |                  |
+|**Node.js**                  | ![done][done]     | ![done][done]          |                  |
 |**Express.js**               | ![done][done]     |                        |                  |
+|**Next.js**                  |       soon        |                        |                  |
 |**Apollo.js**                |       soon        |                        |                  |
 |**React Query.js**           |       soon        |                        |                  |
 |**Consuming APIs**           | ![done][done]     | ![done][done]          |                  |
 |**Creating APIs**            | ![done][done]     |                        |                  |
-|**REST**                     | ![done][done]     | ![done][done]     |                  |
+|**REST**                     | ![done][done]     | ![done][done]          |                  |
 |**GraphQL**                  |       soon        |                        |                  |
-|**JWT**                      | ![done][done]     |                        |                  |
-|**Unit Testing**             |       soon        |                        |                  |
+|**JWT**                      | ![done][done]     | ![done][done]          |                  |
+|**Unit Testing**             | ![done][done]     |                        |                  |
 |**Integration Testing**      |       soon        |                        |                  |
 |**TDD**                      |       soon        |                        |                  |
 |**Text To Speech**           | ![done][done]     |                        |                  |
 |**Websockets**               |       soon        |                        |                  |
 |**SQL**                      | ![done][done]     | ![done][done]          |                  |
+|**PostgreSQL**               |       soon        |                        |                  |
 |**MongoDB**                  | ![done][done]     | ![done][done]          |                  |
 |**Firebase**                 | ![done][done]     |                        |                  |
-|**Vagrant**                  | ![done][done]     |                        |                  |
-|**PHP7**                     | ![done][done]     |                        |                  |
 |**Progressive Enhancement**  | ![done][done]     |                        |                  |
 |**Website Building**         | ![done][done]     | ![done][done]          |                  |
 |**Custom e-commerce**        |       soon        |                        |                  |
@@ -73,6 +75,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**EsLint – Prettier**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Iconset**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Parcel**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Jest**                          | ![done][done]     |                        |                        |
 |**Postman**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**MongoDB Compass**               | ![done][done]     |                        |                  |
 |**TablePlus**                     | ![done][done]     |                        |                  |
@@ -87,6 +90,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 |   Completed     | Course / Book                           |                by...                        |
 |:----------------|:----------------------------------------------------------------|:---------------------------------------:|
+| 2021/08 | [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/)                                      | [James Quick] |
 | 2021/02 | [HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0&list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu&index=24)                                      | [Brad Traversy] |
 | 2021/02 | [React Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)                                      | [Brad Traversy] |
 | 2021/02 | [React Front To Back](https://www.udemy.com/course/modern-react-front-to-back/)                                      | [Brad Traversy] |
@@ -118,43 +122,64 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 * [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/) by Mosh Hamedani
 * [Node.js: Tools & Skills, 2nd Edition](https://www.sitepoint.com/premium/books/node-js-tools-skills-2nd-edition/read/1) on Sitepoint
 * [Your First Week With Node.js, 2nd Edition](https://www.sitepoint.com/premium/books/your-first-week-with-node-js-2nd-edition/read/2/k8o6l4nd) on Sitepoint
+* [Typescript: The Complete Developer's Guide ](https://www.udemy.com/course/typescript-the-complete-developers-guide/) by [Stephen Grider]
 
 &nbsp;
 
 ## On the radar:
 
+### Vanilla JavaScript
+* [State-Based UI](https://vanillajsguides.com/expert-bundle/) by Chris Ferdinandi
+
 ### React
-* [React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/) by Flavio Copes
-* [Easy Peasy React State Management](https://www.youtube.com/watch?v=cSUt8b2qapM&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=15) by Brad Traversy
+* [React Typescript Quiz App](https://www.youtube.com/watch?v=SdOtuCdTdq8) by [Thomas Weibenfalk]
+* [React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/) by [Flavio Copes]
+* [React Crash Course for Beginners 2021](https://www.youtube.com/watch?v=Dorf8i6lCuk) by [Academind]
+* [React Tutorials](https://www.youtube.com/watch?v=TeeAp5zkYnI&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp) by Dave Gray
+* [Easy Peasy React State Management](https://www.youtube.com/watch?v=cSUt8b2qapM&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=15) by [Brad Traversy]
 * ["Make React Apps" Bundle](https://learn.better.dev/make-react-apps-bundle-a-and-b) by Chris Sev
 * [Hangman with React](https://www.youtube.com/watch?v=jj0W8tYX_q8) by CodeSTACKr
-* [React Projects Playlist](https://www.youtube.com/watch?v=cSUt8b2qapM&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=15) by Brad Traversy
-* [Advanced React](https://advancedreact.com/) by Wes Bos
+* [React Projects Playlist](https://www.youtube.com/watch?v=cSUt8b2qapM&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=15) by [Brad Traversy]
+* [Advanced React](https://advancedreact.com/) by [Wes Bos]
+
+### Angular
+* [The Modern Angular Bootcamp ](https://www.udemy.com/course/the-modern-angular-bootcamp/) by [Stephen Grider]
 
 ### Node
-
-* [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) by Brad Traversy
+* [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) by [Brad Traversy]
 * [What is a RESTful API?](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
-* [Learn Node](https://learnnode.com/) by Wes Bos
-* [Node App from Scratch](https://www.youtube.com/watch?v=SBvmnHTQIPY) by Brad Traversy
-* [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0) by Brad Traversy
+* [Node.js, Express, MongoDB & More: The Complete Bootcamp 2021 ](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) by Jonas Schmedtmann
+* [Learn Node](https://learnnode.com/) by [Wes Bos]
+* [Node App from Scratch](https://www.youtube.com/watch?v=SBvmnHTQIPY) by [Brad Traversy]
 
 ### Express
+* [Express Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) by [Brad Traversy]
+* [The Express Handbook](https://flaviocopes.com/page/express-handbook/) by [Flavio Copes]
 
-* [Express Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) by Brad Traversy
-* [The Express Handbook](https://flaviocopes.com/page/express-handbook/) by Flavio Copes
+### Next.js
+* [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0) by [Brad Traversy]
+* [Next.js Dev to Deployment](https://www.udemy.com/course/nextjs-dev-to-deployment/learn/lecture/26055170?start=0#overview) by [Brad Traversy]
+* [Full Stack Development with Next.js and Supabase – The Complete Guide](https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/amp/?__twitter_impression=true) by Nader Dabit
+* [Next.js E-Commerce Tutorial: SPA Example](https://snipcart.com/blog/next-js-ecommerce-tutorial-example?utm_source=Snipcart+email+subscribers&utm_campaign=313a080094-mc-snip-july-21-content-nextjs-ecommerce-spa-21&utm_medium=email&utm_term=0_3e16e05ea2-313a080094-123178956) by Pierre-Guillaume Laurin
+
+### PostgreSQL
+* [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/) by [Stephen Grider]
+
+### MongoDB
+* [MongoDB University](https://university.mongodb.com/)
+* [Practical MongoDB Aggregations](https://www.practical-mongodb-aggregations.com/)
 
 ### Websockets
-
-* [Real-Time Tweets & Socket.io](https://www.youtube.com/watch?v=PjjjhGW4ceM) by Brad Traversy
+* [Real-Time Tweets & Socket.io](https://www.youtube.com/watch?v=PjjjhGW4ceM) by [Brad Traversy]
 * [Multiplayer Snake Game with Socket.io](https://www.youtube.com/watch?v=ppcBIHv_ZPs) by [Hungry Turtle Code](https://www.youtube.com/channel/UC7Vxnf06GP6w42Lg3TQLXSw)
 
 ### Figma
-
 * [Figma in 40 Minutes](https://www.youtube.com/watch?v=4W4LvJnNegA) by [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 
-### Inkscape
+### Hosting
+* [Jamstack Explorers Learning Platform](https://explorers.netlify.com/) by Netlify
 
+### Inkscape
 * ???
 
 &nbsp;
@@ -195,6 +220,9 @@ As above: incomplete and ever growing.
 * [Node Weekly](https://nodeweekly.com/)
 
 [//]: # (Reference links to courses)
+[Stephen Grider]: https://www.udemy.com/user/sgslo/
+[Thomas Weibenfalk]: https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg
+[James Quick]: https://discord.com/invite/vM2bagU
 [Academind]: https://academind.com/
 [Wes Bos]: https://wesbos.com
 [Flavio Copes]: https://flaviocopes.com/
