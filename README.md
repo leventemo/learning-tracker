@@ -26,13 +26,13 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Markdown**                 | ![done][done]     | ![done][done]          | ![done][done]    |
 |**SVG**            		      | ![done][done]     | ![done][done]          |                  |
 |**JavaScript**               | ![done][done]     | ![done][done]          | ![done][done]    |
-|**TypeScript**               |       soon        |                        |                  |
+|**TypeScript**               | ![done][done]     |                        |                  |
 |**Regex**                    | ![done][done]     | ![done][done]          |                  |
 |**Command line**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                   | ![done][done]     | ![done][done]          |                  |
 |**Eleventy**                 | ![done][done]     |                        |                  |
-|**Angular**                  |       soon        |                        |                  |
+|**Angular**                  | ![done][done]     |                        |                  |
 |**React**                    | ![done][done]     |                        |                  |
 |**Redux**                    | ![done][done]     |                        |                  |
 |**Gatsby**                   |       soon        |                        |                  |
@@ -90,6 +90,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 |   Completed     | Course / Book                           |                by...                        |
 |:----------------|:----------------------------------------------------------------|:---------------------------------------:|
+| 2021/10 | [Angular Crash Course](https://www.youtube.com/watch?v=3dHNOWTI7H8)                                      | [Brad Traversy] |
 | 2021/08 | [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/)                                      | [James Quick] |
 | 2021/02 | [HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0&list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu&index=24)                                      | [Brad Traversy] |
 | 2021/02 | [React Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)                                      | [Brad Traversy] |
@@ -123,6 +124,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 * [Node.js: Tools & Skills, 2nd Edition](https://www.sitepoint.com/premium/books/node-js-tools-skills-2nd-edition/read/1) on Sitepoint
 * [Your First Week With Node.js, 2nd Edition](https://www.sitepoint.com/premium/books/your-first-week-with-node-js-2nd-edition/read/2/k8o6l4nd) on Sitepoint
 * [Typescript: The Complete Developer's Guide ](https://www.udemy.com/course/typescript-the-complete-developers-guide/) by [Stephen Grider]
+* [Design Patterns in TypeScript](https://refactoring.guru/design-patterns/typescript)
 
 &nbsp;
 
