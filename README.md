@@ -90,6 +90,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 |   Completed     | Course / Book                           |                by...                        |
 |:----------------|:----------------------------------------------------------------|:---------------------------------------:|
+| 2021/12 | [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/)                                      | Mosh Hamedani |
 | 2021/10 | [Angular Crash Course](https://www.youtube.com/watch?v=3dHNOWTI7H8)                                      | [Brad Traversy] |
 | 2021/08 | [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/)                                      | [James Quick] |
 | 2021/02 | [HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0&list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu&index=24)                                      | [Brad Traversy] |
@@ -119,19 +120,25 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 &nbsp;
 
 ## Working on right now:
-* [Eleventy from Scratch](https://piccalil.li/course/learn-eleventy-from-scratch/) by Andy Bell
-* [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/) by Mosh Hamedani
+* [The Modern Angular Bootcamp ](https://www.udemy.com/course/the-modern-angular-bootcamp/) by [Stephen Grider]
 * [Node.js: Tools & Skills, 2nd Edition](https://www.sitepoint.com/premium/books/node-js-tools-skills-2nd-edition/read/1) on Sitepoint
 * [Your First Week With Node.js, 2nd Edition](https://www.sitepoint.com/premium/books/your-first-week-with-node-js-2nd-edition/read/2/k8o6l4nd) on Sitepoint
 * [Typescript: The Complete Developer's Guide ](https://www.udemy.com/course/typescript-the-complete-developers-guide/) by [Stephen Grider]
 * [Design Patterns in TypeScript](https://refactoring.guru/design-patterns/typescript)
+* [Eleventy from Scratch](https://piccalil.li/course/learn-eleventy-from-scratch/) by Andy Bell
 
 &nbsp;
 
 ## On the radar:
 
+## CSS
+* [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts)
+
 ### Vanilla JavaScript
 * [State-Based UI](https://vanillajsguides.com/expert-bundle/) by Chris Ferdinandi
+
+### TypeScript
+* [Advanced TypeScript 3 Programming Projects](https://www.packtpub.com/product/advanced-typescript-3-programming-projects/9781789133042)
 
 ### React
 * [React Typescript Quiz App](https://www.youtube.com/watch?v=SdOtuCdTdq8) by [Thomas Weibenfalk]
@@ -143,9 +150,6 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 * [Hangman with React](https://www.youtube.com/watch?v=jj0W8tYX_q8) by CodeSTACKr
 * [React Projects Playlist](https://www.youtube.com/watch?v=cSUt8b2qapM&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=15) by [Brad Traversy]
 * [Advanced React](https://advancedreact.com/) by [Wes Bos]
-
-### Angular
-* [The Modern Angular Bootcamp ](https://www.udemy.com/course/the-modern-angular-bootcamp/) by [Stephen Grider]
 
 ### Node
 * [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) by [Brad Traversy]
@@ -159,6 +163,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 * [The Express Handbook](https://flaviocopes.com/page/express-handbook/) by [Flavio Copes]
 
 ### Next.js
+* [Next.js, Supabase and Stripe](https://egghead.io/courses/build-a-saas-product-with-next-js-supabase-and-stripe-61f2bc20) by Jon Meyers
 * [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0) by [Brad Traversy]
 * [Next.js Dev to Deployment](https://www.udemy.com/course/nextjs-dev-to-deployment/learn/lecture/26055170?start=0#overview) by [Brad Traversy]
 * [Full Stack Development with Next.js and Supabase – The Complete Guide](https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/amp/?__twitter_impression=true) by Nader Dabit
@@ -180,6 +185,9 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 ### Hosting
 * [Jamstack Explorers Learning Platform](https://explorers.netlify.com/) by Netlify
+
+### 11ty
+* [Build An Eleventy (11ty) Site From Scratch](https://egghead.io/courses/build-an-eleventy-11ty-site-from-scratch-bfd3?_cio_id=89fb0500e0ba01e1ba01&cio_id=co_bkre3ab9hzf02&utm_campaign=Path%3A+Developer+Portfolio+Foundations&utm_content=You+need+a+place+to+publish.&utm_medium=email_action&utm_source=customer.io)
 
 ### Inkscape
 * ???
