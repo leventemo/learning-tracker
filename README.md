@@ -90,7 +90,8 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 |   Completed     | Course / Book                           |                by...                        |
 |:----------------|:----------------------------------------------------------------|:---------------------------------------:|
-| 2021/12 | [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/)                                      | Mosh Hamedani |
+| 2022/03 | [Learn Angular Material](https://www.youtube.com/watch?v=jUfEn032IL8)                                      | [Codevolution] |
+| 2021/12 | [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/)                                      | [Mosh Hamedani] |
 | 2021/10 | [Angular Crash Course](https://www.youtube.com/watch?v=3dHNOWTI7H8)                                      | [Brad Traversy] |
 | 2021/08 | [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/)                                      | [James Quick] |
 | 2021/02 | [HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0&list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu&index=24)                                      | [Brad Traversy] |
@@ -139,6 +140,9 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 ### TypeScript
 * [Advanced TypeScript 3 Programming Projects](https://www.packtpub.com/product/advanced-typescript-3-programming-projects/9781789133042)
+
+### Angular
+* [Dark mode in Angular](https://www.youtube.com/watch?v=n-OQkC4do5M)
 
 ### React
 * [React Typescript Quiz App](https://www.youtube.com/watch?v=SdOtuCdTdq8) by [Thomas Weibenfalk]
@@ -247,3 +251,5 @@ As above: incomplete and ever growing.
 [Bruno Skvorc]: https://www.sitepoint.com/author/bskvorc
 [Jon Duckett]: https://www.amazon.com/Jon-Duckett/e/B001IR3Q7I%3Fref=dbs_a_mng_rwt_scns_share
 [Rob Percival]: https://www.udemy.com/user/robpercival/
+[Codevolution]: https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw
+[Mosh Hamedani]: https://codewithmosh.com/
