@@ -32,7 +32,8 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Git**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                   | ![done][done]     | ![done][done]          |                  |
 |**Eleventy**                 | ![done][done]     |                        |                  |
-|**Angular**                  | ![done][done]     |                        |                  |
+|**Angular**                  | ![done][done]     | ![done][done]          |                  |
+|**RxJS**                     | ![done][done]     |                        |                  |
 |**React**                    | ![done][done]     |                        |                  |
 |**Redux**                    | ![done][done]     |                        |                  |
 |**Gatsby**                   |       soon        |                        |                  |
@@ -90,6 +91,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 |   Completed     | Course / Book                           |                by...                        |
 |:----------------|:----------------------------------------------------------------|:---------------------------------------:|
+| 2022/07 | [Learning RxJS](https://www.linkedin.com/learning/learning-rxjs/)                                      | [Bonnie Jean Brennan] |
 | 2022/03 | [Learn Angular Material](https://www.youtube.com/watch?v=jUfEn032IL8)                                      | [Codevolution] |
 | 2021/12 | [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/)                                      | [Mosh Hamedani] |
 | 2021/10 | [Angular Crash Course](https://www.youtube.com/watch?v=3dHNOWTI7H8)                                      | [Brad Traversy] |
@@ -125,6 +127,8 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 * [Node.js: Tools & Skills, 2nd Edition](https://www.sitepoint.com/premium/books/node-js-tools-skills-2nd-edition/read/1) on Sitepoint
 * [Your First Week With Node.js, 2nd Edition](https://www.sitepoint.com/premium/books/your-first-week-with-node-js-2nd-edition/read/2/k8o6l4nd) on Sitepoint
 * [Typescript: The Complete Developer's Guide ](https://www.udemy.com/course/typescript-the-complete-developers-guide/) by [Stephen Grider]
+* [Typescript: The Ultimate Bootcamp (2022 Edition)](https://www.udemy.com/course/complete-typescript-2-course/) by [Angular University]
+* [Angular Material in Depth (Angular 14](https://www.udemy.com/course/angular-material-course/) by [Angular University]
 * [Design Patterns in TypeScript](https://refactoring.guru/design-patterns/typescript)
 * [Eleventy from Scratch](https://piccalil.li/course/learn-eleventy-from-scratch/) by Andy Bell
 
@@ -234,6 +238,9 @@ As above: incomplete and ever growing.
 * [Node Weekly](https://nodeweekly.com/)
 
 [//]: # (Reference links to courses)
+
+[Angular University]: https://www.udemy.com/user/vascocavalheiro/
+[Bonnie Jean Brennan]: https://twitter.com/bonnster75
 [Stephen Grider]: https://www.udemy.com/user/sgslo/
 [Thomas Weibenfalk]: https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg
 [James Quick]: https://discord.com/invite/vM2bagU
