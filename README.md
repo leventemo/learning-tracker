@@ -21,7 +21,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Materialize CSS**          | ![done][done]     |                        |                  |
 |**Bulma**                    | ![done][done]     |                        |                  |
 |**Sass**                     |       soon        |                        |                  |
-|**CSS Animation**            |       soon        |                        |                  |
+|**CSS Animation**            | ![done][done]     |                        |                  |
 |**Accessibility**            | ![done][done]     |                        |                  |
 |**Markdown**                 | ![done][done]     | ![done][done]          | ![done][done]    |
 |**SVG**            		      | ![done][done]     | ![done][done]          |                  |
@@ -147,6 +147,8 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 ### Angular
 * [Dark mode in Angular](https://www.youtube.com/watch?v=n-OQkC4do5M)
+* [Build a Webshop with Angular, Node.js, TypeScript, & Stripe](https://www.freecodecamp.org/news/build-a-webshop-with-angular-node-js-typescript-stripe/)
+* [Angular E-Commerce Project: Build a Web App Easily](https://snipcart.com/blog/angular-ecommerce-project)
 
 ### React
 * [React Typescript Quiz App](https://www.youtube.com/watch?v=SdOtuCdTdq8) by [Thomas Weibenfalk]
@@ -188,17 +190,11 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 * [Real-Time Tweets & Socket.io](https://www.youtube.com/watch?v=PjjjhGW4ceM) by [Brad Traversy]
 * [Multiplayer Snake Game with Socket.io](https://www.youtube.com/watch?v=ppcBIHv_ZPs) by [Hungry Turtle Code](https://www.youtube.com/channel/UC7Vxnf06GP6w42Lg3TQLXSw)
 
-### Figma
-* [Figma in 40 Minutes](https://www.youtube.com/watch?v=4W4LvJnNegA) by [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
-
 ### Hosting
 * [Jamstack Explorers Learning Platform](https://explorers.netlify.com/) by Netlify
 
 ### 11ty
 * [Build An Eleventy (11ty) Site From Scratch](https://egghead.io/courses/build-an-eleventy-11ty-site-from-scratch-bfd3?_cio_id=89fb0500e0ba01e1ba01&cio_id=co_bkre3ab9hzf02&utm_campaign=Path%3A+Developer+Portfolio+Foundations&utm_content=You+need+a+place+to+publish.&utm_medium=email_action&utm_source=customer.io)
-
-### Inkscape
-* ???
 
 &nbsp;
 
