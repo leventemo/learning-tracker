@@ -1,6 +1,6 @@
 # Learning Tracker
 
-Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development. I am updating these lists as I work on ticking boxes, without listing every single article, blog post or tutorial I read.
+Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker "Syk Houdeib's learning tracker on Github"), this is an attempt to document my learning process in teaching myself web development.
 
 &nbsp;
 
@@ -11,58 +11,44 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |             Skill           |   Introduction    |     Occasional Use     |   Regular Use    |
 |:--------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**HTML5**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Pug**                      | ![done][done]     | ![done][done]     |                  |
-|**Nunjucks**                 | ![done][done]     |                        |                  |
 |**CSS3**                     | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS Flexbox**              | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS Grid**                 | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Responsive design**        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Bootstrap**                | ![done][done]     | ![done][done]          |                  |
-|**Materialize CSS**          | ![done][done]     |                        |                  |
-|**Bulma**                    | ![done][done]     |                        |                  |
+|**Bulma**                    | ![done][done]     | ![done][done]          |                  |
 |**Sass**                     |       soon        |                        |                  |
-|**CSS Animation**            | ![done][done]     |                        |                  |
-|**Accessibility**            | ![done][done]     |                        |                  |
+|**CSS Animation**            | ![done][done]     | ![done][done]          |                  |
 |**Markdown**                 | ![done][done]     | ![done][done]          | ![done][done]    |
 |**SVG**            		      | ![done][done]     | ![done][done]          |                  |
 |**JavaScript**               | ![done][done]     | ![done][done]          | ![done][done]    |
-|**TypeScript**               | ![done][done]     |                        |                  |
+|**TypeScript**               | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Regex**                    | ![done][done]     | ![done][done]          |                  |
-|**Command line**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**GitHub**                   | ![done][done]     | ![done][done]          |                  |
-|**Eleventy**                 | ![done][done]     |                        |                  |
-|**Angular**                  | ![done][done]     | ![done][done]          |                  |
-|**RxJS**                     | ![done][done]     |                        |                  |
-|**React**                    | ![done][done]     |                        |                  |
-|**Redux**                    | ![done][done]     |                        |                  |
-|**Gatsby**                   |       soon        |                        |                  |
+|**GitHub**                   | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Angular**                  | ![done][done]     | ![done][done]          | ![done][done]    |
+|**OOP**                      | ![done][done]     | ![done][done]          |                  |
+|**RxJS**                     | ![done][done]     | ![done][done]          |                  |
+|**Angular Material**         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**NPM**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Node.js**                  | ![done][done]     | ![done][done]          |                  |
 |**Express.js**               | ![done][done]     |                        |                  |
-|**Next.js**                  |       soon        |                        |                  |
-|**Apollo.js**                |       soon        |                        |                  |
-|**React Query.js**           |       soon        |                        |                  |
 |**Consuming APIs**           | ![done][done]     | ![done][done]          |                  |
-|**Creating APIs**            | ![done][done]     |                        |                  |
-|**REST**                     | ![done][done]     | ![done][done]          |                  |
-|**GraphQL**                  |       soon        |                        |                  |
-|**JWT**                      | ![done][done]     | ![done][done]          |                  |
+|**Creating REST APIs**       | ![done][done]     |                        |                  |
 |**Unit Testing**             | ![done][done]     |                        |                  |
 |**Integration Testing**      |       soon        |                        |                  |
 |**TDD**                      |       soon        |                        |                  |
 |**Text To Speech**           | ![done][done]     |                        |                  |
 |**Websockets**               |       soon        |                        |                  |
-|**SQL**                      | ![done][done]     | ![done][done]          |                  |
+|**SQL**                      | ![done][done]     |                        |                  |
 |**PostgreSQL**               |       soon        |                        |                  |
 |**MongoDB**                  | ![done][done]     | ![done][done]          |                  |
 |**Firebase**                 | ![done][done]     |                        |                  |
-|**Progressive Enhancement**  | ![done][done]     |                        |                  |
-|**Website Building**         | ![done][done]     | ![done][done]          |                  |
 |**Custom e-commerce**        |       soon        |                        |                  |
 |**Deployment**               | ![done][done]     | ![done][done]          |                  |
 |**Data Visualization**       |       soon        |                        |                  |
-|**Open Source Contribution** |       soon        |                        |                  |
+|**Accessibility**            | ![done][done]     |                        |                  |
+|**React**                    | ![done][done]     |                        |                  |
+|**Redux**                    | ![done][done]     |                        |                  |
 
 &nbsp;
 
@@ -74,14 +60,11 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Visual Studio Code**            | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Sublime Text3**                 | ![done][done]     | ![done][done]          |                  |
 |**EsLint – Prettier**             | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Iconset**                       | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Parcel**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Jest**                          | ![done][done]     |                        |                        |
-|**Postman**                       | ![done][done]     | ![done][done]          | ![done][done]    |
-|**MongoDB Compass**               | ![done][done]     |                        |                  |
+|**Parcel**                        | ![done][done]     | ![done][done]          |                  |
+|**Vite**                          | ![done][done]     | ![done][done]          |                  |
+|**Jest**                          | ![done][done]     |                        |                  |
+|**Postman**                       | ![done][done]     | ![done][done]          |                  |
 |**TablePlus**                     | ![done][done]     |                        |                  |
-|**Inkscape**                      |       soon        |                        |                  |
-|**Figma**                         |       soon        |                        |                  |
 
 &nbsp;
 
@@ -91,6 +74,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 |   Completed     | Course / Book                           |                by...                        |
 |:----------------|:----------------------------------------------------------------|:---------------------------------------:|
+| 2022/10 | [The SQL Handbook](https://thevalleyofcode.com/sql/)                                      |  [Flavio Copes] |
 | 2022/07 | [Learning RxJS](https://www.linkedin.com/learning/learning-rxjs/)                                      | [Bonnie Jean Brennan] |
 | 2022/03 | [Learn Angular Material](https://www.youtube.com/watch?v=jUfEn032IL8)                                      | [Codevolution] |
 | 2021/12 | [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/)                                      | [Mosh Hamedani] |
@@ -124,12 +108,13 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 ## Working on right now:
 * [The Modern Angular Bootcamp ](https://www.udemy.com/course/the-modern-angular-bootcamp/) by [Stephen Grider]
-* [Node.js: Tools & Skills, 2nd Edition](https://www.sitepoint.com/premium/books/node-js-tools-skills-2nd-edition/read/1) on Sitepoint
-* [Your First Week With Node.js, 2nd Edition](https://www.sitepoint.com/premium/books/your-first-week-with-node-js-2nd-edition/read/2/k8o6l4nd) on Sitepoint
+* [Angular Testing Masterclass ](https://www.udemy.com/course/angular-testing-course/) by [Angular University]
 * [Typescript: The Complete Developer's Guide ](https://www.udemy.com/course/typescript-the-complete-developers-guide/) by [Stephen Grider]
 * [Typescript: The Ultimate Bootcamp (2022 Edition)](https://www.udemy.com/course/complete-typescript-2-course/) by [Angular University]
 * [Angular Material in Depth (Angular 14](https://www.udemy.com/course/angular-material-course/) by [Angular University]
 * [Design Patterns in TypeScript](https://refactoring.guru/design-patterns/typescript)
+* [Your First Week With Node.js, 2nd Edition](https://www.sitepoint.com/premium/books/your-first-week-with-node-js-2nd-edition/read/2/k8o6l4nd) on Sitepoint
+* [Node.js: Tools & Skills, 2nd Edition](https://www.sitepoint.com/premium/books/node-js-tools-skills-2nd-edition/read/1) on Sitepoint
 * [Eleventy from Scratch](https://piccalil.li/course/learn-eleventy-from-scratch/) by Andy Bell
 
 &nbsp;
