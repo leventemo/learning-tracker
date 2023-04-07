@@ -34,7 +34,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Express.js**               | ![done][done]     |                        |                  |
 |**Consuming APIs**           | ![done][done]     | ![done][done]          |                  |
 |**Creating REST APIs**       | ![done][done]     |                        |                  |
-|**Unit Testing**             | ![done][done]     |                        |                  |
+|**Unit Testing**             | ![done][done]     | ![done][done]          |                  |
 |**Integration Testing**      |       soon        |                        |                  |
 |**TDD**                      |       soon        |                        |                  |
 |**Text To Speech**           | ![done][done]     |                        |                  |
@@ -123,6 +123,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 ## CSS
 * [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts)
+* [Flexbox Simplified](https://www.flexboxsimplified.com/#buy)
 
 ### Vanilla JavaScript
 * [State-Based UI](https://vanillajsguides.com/expert-bundle/) by Chris Ferdinandi
