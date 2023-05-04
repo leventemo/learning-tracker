@@ -109,6 +109,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 &nbsp;
 
 ## Working on right now:
+* [ISTQB Foundation Level Syllabus](https://www.istqb.org/certifications/certified-tester-foundation-level)
 * [The Modern Angular Bootcamp ](https://www.udemy.com/course/the-modern-angular-bootcamp/) by [Stephen Grider]
 * [Angular Testing Masterclass ](https://www.udemy.com/course/angular-testing-course/) by [Angular University]
 * [Typescript: The Complete Developer's Guide ](https://www.udemy.com/course/typescript-the-complete-developers-guide/) by [Stephen Grider]
