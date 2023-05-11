@@ -36,6 +36,8 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Creating REST APIs**       | ![done][done]     |                        |                  |
 |**Unit Testing**             | ![done][done]     | ![done][done]          |                  |
 |**Integration Testing**      |       soon        |                        |                  |
+|**End-to-end Testing**       |       soon        |                        |                  |
+|**Test Automation**          | ![done][done]     |                        |                  |
 |**TDD**                      |       soon        |                        |                  |
 |**Text To Speech**           | ![done][done]     |                        |                  |
 |**Websockets**               | ![done][done]     |                        |                  |
@@ -65,6 +67,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 |**Jasmine**                       | ![done][done]     |                        |                  |
 |**Jest**                          | ![done][done]     |                        |                  |
 |**Postman**                       | ![done][done]     | ![done][done]          |                  |
+|**Selenium**                      | ![done][done]     |                        |                  |
 |**TablePlus**                     | ![done][done]     |                        |                  |
 
 &nbsp;
@@ -75,7 +78,11 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 |   Completed     | Course / Book                           |                by...                        |
 |:----------------|:----------------------------------------------------------------|:---------------------------------------:|
-| 2023/04 | [WebSocket Communications with Node and Angular](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-are-websockets?autoplay=true&courseClaim=AQG9_V4knmGVcQAAAYfYSkzgUI0bnBVO_KBUYzahlNJyIGiPJkvOdT931jWdAr1eEsnA3rayJOcjVqCMna_S3MfiDApzv4r1eisBTRckAiX-Ms5sk8-cVkwwfAW3lE3Q_uQukhtlWs4llE3YYi7FrWvVkTp2WQz-N9PtPU8faazxT7-6hOrGFS4Oc57wjlboreFuPP87ZWabRl8pQ-C7vjVRLTk9rvS_mFxY3OPjI7njp9TnmfBF2mwIg5srK6nY-WjMYtkz8_AbBvRIs6zEBBJ6uHCvupirYS1twrj1WSfeXpi0SlgFIDBLbHdbfx_xHVNA6YhXAnIgLf6hrzCZxCbaFcypqE_79nnKXZA-07rnM6uIKDnex67R0xN22FVulxqgCbjCLIQ69YXD5ofIqaB3BlL6PwT_JXcHTOnyKtL1ClPdxkRGaq8-Cipt3MLPPVk-MB3PNlwnHXysz_lmLeewmx8HkEizKtwSP3hB9jeRTJjNYVRlO1yCiRD3wHBrhitY5013AU8bVaeqyMtND7gGWgniowFdBP1L9_Dt0fq0z3AAKZMTr6YG0vZTO2DN_AadcBmR8HfN-8rKbZD08vxpfPWV60Ul4CUcmpH4HIi1eGM9FDqx1C2k6525gFmx0NHK-4MoZAJxJ6uI8zcuRbRZI_c78GA-4yWXIHhUAQajWAFCsKPXN-XknXulyvLoThJ2Kqh1W8suv8vSa5ydFpJVmo4ZAvr-v63iPOumdvB9tFoK2J3zUtY0SDOVOV5aADQF16LWS0tHSuHGijB6k6NY8jWvkUyMxJwhWTXPe9p_wUh4ZPplFhbYn3QwYto359-nunQR7NL-1LxjnEbBFl8X0suWiaBs4C8YbSi46Y6t_g-Ufyx0NUIfTQy8HsRvo1V4ab6WYGNnYR8yYo4s8bPt20fUw0imx-uOqs50HBvCszCYCnkvSU0EshaSFKYBUkk0qTfmd7OMnNEgY4CybXrRRXvTLZOgY_91YD6K5zf0BlgBl_tGHfeQit5QVY9ZjW7pcXeth-kbCBri_DTs-tKrEtlo-gjF6dC5y2pfpZf-Dxiv9UIxSQiNG_CuefW-hLOIqcABn7mi_g)                                      |  [Patrick Siewe] |
+| 2023/05 | [SQL for Data Analysis](https://www.linkedin.com/learning/sql-for-data-analysis)                                      |  [Nikiya Simpson] |
+| 2023/05 | [Selenium Essential Training](https://www.linkedin.com/learning/selenium-essential-training)                                      |  [Meaghan Lewis] |
+| 2023/05 | [Agile Project Management: Comparing Agile Tools](https://www.linkedin.com/learning/agile-project-management-comparing-agile-tools-2021)                                      |  Doug Rose |
+| 2023/05 | [WebSocket Communications with Node and Angular](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular)                                      |  Patrick Siewe |
+| 2022/10 | [TypeScript: Object-Oriented Programming](https://www.linkedin.com/learning/typescript-object-oriented-programming)                                      |  [Dylan Israel] |
 | 2022/10 | [The SQL Handbook](https://thevalleyofcode.com/sql/)                                      |  [Flavio Copes] |
 | 2022/07 | [Learning RxJS](https://www.linkedin.com/learning/learning-rxjs/)                                      | [Bonnie Jean Brennan] |
 | 2022/03 | [Learn Angular Material](https://www.youtube.com/watch?v=jUfEn032IL8)                                      | [Codevolution] |
@@ -192,19 +199,22 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 An incomplete and ever growing list of resources I find useful, in no particular order.
 
-| Blog                                                    |      CSS      |      JS       |     React     |
-|:--------------------------------------------------------|:-------------:|:-------------:|:-------------:|
-| [CSS-Tricks](https://css-tricks.com/)                   | ![done][done] |               |               |
-| [Modern CSS Solutions](https://moderncss.dev/)          | ![done][done] |               |               |
-| [Sara Soueidan](...)                    | ![done][done] |               |               |
-| [Alligator.io](https://alligator.io/)                   | ![done][done] | ![done][done] | ![done][done] |
-| [Go Make Things](https://gomakethings.com/articles/)   |               | ![done][done] |               |
-| [Flavio Copes](...)   |               | ![done][done] |               |
-| [Josh W. Cameau](https://www.joshwcomeau.com/)          | ![done][done] |               | ![done][done] |
-| [Tania Rascia](https://www.taniarascia.com/)            |               | ![done][done] | ![done][done] |
-| [Wes Bos](https://wesbos.com/tips)                      |               | ![done][done] |               |
-| [ui.dev](https://ui.dev/blog/)                          |               | ![done][done] | ![done][done] |
-| [Robin Wieruch](https://www.robinwieruch.de/blog)       |               |               | ![done][done] |
+| Blog                                                    |      CSS      |      JS       |     React     |   Angular   |
+|:--------------------------------------------------------|:-------------:|:-------------:|:-------------:|:-----------:|
+| [CSS-Tricks](https://css-tricks.com/)                   | ![done][done] |               |               |             |
+| [Modern CSS Solutions](https://moderncss.dev/)          | ![done][done] |               |               |             |
+| [Sara Soueidan](...)                    | ![done][done] |               |               |               |             |
+| [Alligator.io](https://alligator.io/)                   | ![done][done] | ![done][done] | ![done][done] |             |
+| [Go Make Things](https://gomakethings.com/articles/)    |               | ![done][done] |               |             |
+| [Flavio Copes](...)   |               | ![done][done]   |               |               |               |             |
+| [Josh W. Cameau](https://www.joshwcomeau.com/)          | ![done][done] |               | ![done][done] |             |
+| [Tania Rascia](https://www.taniarascia.com/)            |               | ![done][done] | ![done][done] |             |
+| [Wes Bos](https://wesbos.com/tips)                      |               | ![done][done] |               |             |
+| [ui.dev](https://ui.dev/blog/)                          |               | ![done][done] | ![done][done] |             |
+| [Robin Wieruch](https://www.robinwieruch.de/blog)       |               |               | ![done][done] |             |
+| [Armen Vardanyan](https://dev.to/armandotrue)           |               |               |               |![done][done]|
+| [Alain Chautard](https://blog.angulartraining.com/)     |               |               |               |![done][done]|
+
 
 &nbsp;
 
@@ -222,6 +232,7 @@ As above: incomplete and ever growing.
 * [ui.dev: React](https://ui.dev/newsletters/react/)
 * [Frontend Mentor Newsletter](https://www.frontendmentor.io/challenges/pomodoro-app-KBFnycJ6G)
 * [Node Weekly](https://nodeweekly.com/)
+* [Sofware Testing Notes](https://substack.com/profile/25759299-pritesh-usadadiya)
 
 [//]: # (Reference links to courses)
 
@@ -246,4 +257,6 @@ As above: incomplete and ever growing.
 [Rob Percival]: https://www.udemy.com/user/robpercival/
 [Codevolution]: https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw
 [Mosh Hamedani]: https://codewithmosh.com/
-[Patrick Siewe]: https://www.linkedin.com/learning/instructors/patrick-siewe
+[Dylan Israel]: https://www.linkedin.com/in/dylan310/
+[Meaghan Lewis]: https://www.linkedin.com/in/meaghan-lewis/recent-activity/all/
+[Nikiya Simpson]: https://www.linkedin.com/in/nikiya-simpson/
